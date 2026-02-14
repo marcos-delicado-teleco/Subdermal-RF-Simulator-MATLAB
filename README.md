@@ -2,6 +2,7 @@
 
 [![MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-orange.svg)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[Análisis y Simulación de la Propagación Electromagnética en Comunicaciones Subdermales.pdf](https://github.com/user-attachments/files/25309305/Analisis.y.Simulacion.de.la.Propagacion.Electromagnetica.en.Comunicaciones.Subdermales.pdf)
 
 ## 📝 Descripción
 Este proyecto es un simulador de propagación electromagnética diseñado para analizar la viabilidad de las comunicaciones inalámbricas en dispositivos médicos implantables (IMDs). 
