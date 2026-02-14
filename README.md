@@ -15,3 +15,17 @@ El software compara el rendimiento de la banda **MedRadio (403 MHz)** frente a l
 - **Modelado Físico Real:** Uso de constantes dieléctricas (permitividad $\epsilon$ y conductividad $\sigma$) basadas en la base de datos de la **IT'IS Foundation**.
 - **Análisis de Link Budget:** Cálculo de potencia recibida incluyendo efectos estocásticos de *shadowing* (ruido log-normal) según el modelo de **Sayrafian-Pour**.
 - **Comparativa Multitecnología:** Evaluación de estándares IEEE 802.15.6 frente a soluciones comerciales como Bluetooth.
+
+## Gráficas
+
+**Atenuación específica en tejido muscular. Se observa una pendiente significativamente mayor para la banda de 2.4 GHz debido a las pérdidas dieléctricas.**
+<img width="1090" height="708" alt="image" src="https://github.com/user-attachments/assets/a60a4399-f019-406e-8d94-db313e3e8470" />
+
+**Simulación del presupuesto de enlace (Link Budget). El margen de seguridad de la banda MedRadio (403 MHz) garantiza la estabilidad frente al umbral crítico de -100 dBm.**
+<img width="1090" height="719" alt="image" src="https://github.com/user-attachments/assets/61381e56-369a-4d48-a28a-77afe414b526" />
+
+## Simulador GUI distintas superficies
+<img width="1597" height="1029" alt="image" src="https://github.com/user-attachments/assets/e861e22a-387d-4af7-93f8-c161d4595bbf" />
+
+
+
